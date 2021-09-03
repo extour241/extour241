@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @extour241
+- 👋 Hi, I’m Bryan @extour241
 - 👀 I’m interested in Coding, Sports and all things fun
 - 🌱 I’m currently learning Machine Learning and Data Science using languages like R Java and Python!
 - 💞️ I’m looking to collaborate on ...
